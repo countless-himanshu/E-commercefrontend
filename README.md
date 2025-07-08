@@ -28,8 +28,8 @@
 
 ## Repository Links
 
-- **Frontend Repository**: [Ecomm-med](https://github.com/kunalthgr8/Ecomm-med)
-- **Backend Repository**: [Ecomm-med-bcknd](https://github.com/kunalthgr8/Ecomm-med-bcknd)
+- **Frontend Repository**: [Ecomm-med](https://github.com/countless-himanshu/E-commercefrontend)
+- **Backend Repository**: [Ecomm-med-bcknd](https://github.com/countless-himanshu/E-Commerce-backend)
 
 ## Environment Variables
 
