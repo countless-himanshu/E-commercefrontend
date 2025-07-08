@@ -83,7 +83,7 @@ To get started with the project, follow these steps:
    npm start
    ```
 
-5. **Visit the Application**: Open `http://localhost:3000` in your browser to access the application.
+5. **Visit the Application**: Open `http://localhost:5173` in your browser to access the application.
 
 ## Contributing
 
